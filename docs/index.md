@@ -25,7 +25,7 @@ These publications are part of a series on open-source
 
 
 ### Chip-level Digital Design
-These publications are all part of the [Chisel](https://www.chisel-lang.org/) project, an [open-source](https://github.com/freechipsproject/chisel3) and [production-ready](https://www.sifive.com/) hardware description language (HDL) that provides principled generators (think metaprogramming Verilog) for digital logic design.
+These publications are all part of the [Chisel](https://www.chisel-lang.org/) project, an [open-source](https://github.com/freechipsproject/chisel3) and [production-tested](https://www.sifive.com/) hardware description language (HDL) that provides principled generators (think metaprogramming Verilog) for digital logic design.
 
 - **[A Mixed-Signal RISC-V Signal Analysis SoC Generator With a 16-nm FinFET Instance](https://doi.org/10.1109/JSSC.2019.2924090)** \\
   Steven Bailey, Paul Rigge, Jaeduk Han, **Richard Lin**, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Daniel Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolić \\
