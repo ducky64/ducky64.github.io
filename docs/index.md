@@ -68,7 +68,7 @@ Students work in groups of three, and the semester-long interdisciplinary projec
 In 2015, my focus was on developing a [re-usable slide deck for discussion / lab sections](https://github.com/ucb-ee192/course-site) and on writing a [live telemetry visualization system](https://github.com/ucb-ee192/telemetry) to encourage students to work with data instead of debugging by trial-and-error 🤦‍.
 
 In 2020 and along with co-GSI Derek Chou, we focused on refactoring the course to get students to a working car as soon as possible by providing the first iteration electronics as a circuit board kit.
-We hoped a reference circuit board would help demonstrate the implicit knowledge of what makes good circuit boards, while going through the assembly process would help students consider design-for-manufacturing (DFM) when they build their own.
+We hoped a reference circuit board would help demonstrate the implicit knowledge of what makes good circuit boards, while going through the assembly process would provide students design-for-manufacturing (DFM) intuition when they build their own.
 While we didn't know it at the beginning of the semester, this turned out to be invaluable for the pandemic: all students had working cars and controls by the time the lockdown hit, and we consider this an extremely lucky success.
 For the rest of the semester, we shifted focus to controls and learning (track memorization) in simulation in V-REP.
 
@@ -85,6 +85,8 @@ For the rest of the semester, we shifted focus to controls and learning (track m
 ### CalSol
 I've been part of the [UC Berkeley Solar Vehicle Team](https://calsol.berkeley.edu/) (we design, build, test, and race solar racing cars) since my first year in undergraduate.
 Some of our design materials are [open source on GitHub](https://github.com/CalSol), including [firmware shared libraries](https://github.com/CalSol/calsol-fw-libs) and our [hands-on electronics training lab for new members](https://github.com/CalSol/braintrain).
+
+There is a good deal of crossover between my research projects and CalSol projects, with the active battery balancing system (on [Zephyr](https://calsol.berkeley.edu/vehicles/)) containing RTL written in Chisel and tested with ChiselTest, and with the [lights controller](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/uist20-submit/examples/test_high_switch) and [datalogger](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/uist20-submit/examples/test_datalogger) on [Tachyon](https://calsol.berkeley.edu/vehicles/)) having their PCBs designed in Polymorphic Blocks.
 
 Engineering aside, I've served as treasurer for many years, automating reimbursements paperwork generation with Python.
 Unsurprisingly, it turns out that purchasing and reimbursements are kind of important for a physical project as large as CalSol.
