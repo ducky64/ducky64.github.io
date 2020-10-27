@@ -35,6 +35,14 @@ These publications are all part of the [Chisel](https://www.chisel-lang.org/) pr
   2017, *IEEE/ACM International Conference on Computer-Aided Design* (*ICCAD*)
 
 
+Unpublished, in-progress projects
+- **[ChiselTest](https://github.com/ucb-bar/chisel-testers2)**, an RTL testing framework that focuses on usability and simplicity in a pure imperative framework (instead of Verilog/VHDL's mixed imperative and hardware construction semantics)
+
+Unpublished standalone projects
+- **[chisel-jtag](https://github.com/ucb-art/chisel-jtag)**, a JTAG TAP (test access port) generator for Chisel
+- **[builtin-debugger](https://github.com/ucb-art/builtin-debugger)**, parameterized built-in logic analyzer and pattern generator modules for Chisel
+
+
 ### Other
 - **[Guardians of Practice: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices](https://doi.org/10.1145/3196709.3196795)** \\
   Cesar Torres, Sarah Sterman, Molly Nicholas, **Richard Lin**, Eric Pai, and Eric Paulos \\
@@ -61,11 +69,17 @@ While we didn't know it at the beginning of the semester, this turned out to be 
 For the rest of the semester, we shifted focus to controls and learning (track memorization) in simulation in V-REP.
 
 
-## Experience
-
-
 ## Education
 - (in progress) PhD in Computer Science, UC Berkeley (2013-current) \\
   Co-advised by Björn Hartmann and Elad Alon
 
 - BS in Electrical Engineering and Computer Sciences, UC Berkeley (2009-2013)
+
+
+## Other
+
+### CalSol
+I've been part of the [UC Berkeley Solar Vehicle Team](https://calsol.berkeley.edu/) (we design, build, and test road-legal solar racing cars) since my first year in undergraduate.
+
+[](https://github.com/CalSol/braintrain)
+[](https://github.com/CalSol/calsol-fw-libs)
