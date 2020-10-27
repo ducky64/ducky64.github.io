@@ -13,16 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Richard Lin
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  richard.lin at berkeley.edu <br/><br/>
+
+  I'm interested in improving electronics design, by making it more accessible and usable for novices, and more efficient for experts.
+  My primary research focuses on board-level design, emphasizing design re-use and abstraction, and blending techniques from the human-computer interaction (HCI), programming languages (PL), and electrical engineering (EE) domains.
+  I also continue to work on chip- and FPGA-level digital logic design languages, similarly applying a blend of HCI and PL techniques to produce usable tools. <br/><br/>
+  
+  I am a PhD student at UC Berkeley, co-advised by by Björn Hartmann and Elad Alon.
 baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "https://ducky64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ducky64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username: ducky64
+github_username: ducky64
 
 logo: DucklingCircleGeneric.png
 show_downloads: false

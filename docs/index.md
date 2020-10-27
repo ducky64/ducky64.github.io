@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-# Quack!
 
 ## Research
 
 ### Board-level Electronics Design
-These publications are part of a series on open-source 
+These publications are part of ongoing work on improving the circuit board design process with better tools, towards an open-source and high-level design tool to enable the large-scale community collaboration and libraries seen in software engineering.
 
 - **[Polymorphic Blocks: Unifying High-level Specification and Low-level Control for Circuit Board Design](https://doi.org/10.1145/3379337.3415860)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Connie Chi, Nikhil Jain, Ryan Nuqui, Prabal Dutta, and Björn Hartmann \\
