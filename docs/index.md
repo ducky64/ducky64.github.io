@@ -27,7 +27,7 @@ These publications are part of ongoing work on improving the circuit board desig
 
 Shorter papers
 
-- **[Opportunities and Challenges for Circuit Board Level Hardware Description Languages](HATRA20_PCB_HDLs)** \\
+- **[Opportunities and Challenges for Circuit Board Level Hardware Description Languages](HATRA20_PCB_HDLs.pdf)** \\
   **Richard Lin** and Björn Hartmann \\
   *HATRA '20 Workshop*
 - **[Supporting Circuit Design with a Block-Based, Generator Language](https://doi.org/10.1145/3334480.3382887)** \\
