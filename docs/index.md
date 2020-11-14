@@ -14,9 +14,6 @@ These publications are part of ongoing work on improving the circuit board desig
   <img src="PolymorphicBlocks_GUI.png" height=128>
   <img src="PolymorphicBlocks_Boards.jpg" height=128>  \\
   **[Source Code](https://github.com/BerkeleyHCI/PolymorphicBlocks)**  ||  Short Talk Video (coming soon)  || Demo Video (coming soon)
-- **[Supporting Circuit Design with a Block-Based, Generator Language](https://doi.org/10.1145/3334480.3382887)** \\
-  **Richard Lin**, Rohit Ramesh, Connie Chi, Nikhil Jain, Prabal Dutta, and Björn Hartmann \\
-  *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems* (*CHI EA '20*)
 - **[Beyond Schematic Capture: Meaningful Abstractions for Better Electronics Design Tools](https://doi.org/10.1145/3290605.3300513)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Antonio Iannopollo, Alberto Sangiovanni Vincentelli, Prabal Dutta, Elad Alon, and Björn Hartmann \\
   *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems* (*CHI '19*) \\
@@ -28,6 +25,15 @@ These publications are part of ongoing work on improving the circuit board desig
   [Source Code](https://github.com/lab11/edg-sat-prototype)
 
 
+Shorter papers
+
+- **[Opportunities and Challenges for Circuit Board Level Hardware Description Languages](HATRA20_PCB_HDLs)** \\
+  **Richard Lin** and Björn Hartmann \\
+  *HATRA '20 Workshop*
+- **[Supporting Circuit Design with a Block-Based, Generator Language](https://doi.org/10.1145/3334480.3382887)** \\
+  **Richard Lin**, Rohit Ramesh, Connie Chi, Nikhil Jain, Prabal Dutta, and Björn Hartmann \\
+  *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems* (*CHI EA '20*)
+  
 ### Chip-level Digital Design
 These publications are all part of the [Chisel](https://www.chisel-lang.org/) project, an [open-source](https://github.com/freechipsproject/chisel3) and [production-tested](https://www.sifive.com/) hardware description language (HDL) that provides principled generators (think metaprogramming Verilog) for digital logic design.
 
