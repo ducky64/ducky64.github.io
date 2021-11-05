@@ -7,13 +7,18 @@ layout: default
 ### Board-level Electronics Design
 These publications are part of ongoing work on improving the circuit board design process with better tools, towards an open-source and high-level design tool to enable the large-scale community collaboration and libraries seen in software engineering.
 
+- **[Weaving Schematics and Code: Interactive Visual Editing for Hardware Description Languages](https://dl.acm.org/doi/10.1145/3472749.3474804)** (open-access) \\
+  **Richard Lin**, Rohit Ramesh, Nikhil Jain, Josephine Koe, Ryan Nuqui, Prabal Dutta, and Björn Hartmann \\
+  *The 34th Annual ACM Symposium on User Interface Software and Technology* (*UIST '21*) \\
+  <img src="IdeBlinkySkeleton.png" height=128>  \\
+  **[Source Code](https://github.com/BerkeleyHCI/edg-ide)**  ||  **[Short Talk and Demo Video (on ACM DL)](https://dl.acm.org/doi/10.1145/3472749.3474804)**
 - **[Polymorphic Blocks: Unifying High-level Specification and Low-level Control for Circuit Board Design](https://doi.org/10.1145/3379337.3415860)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Connie Chi, Nikhil Jain, Ryan Nuqui, Prabal Dutta, and Björn Hartmann \\
   *Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology* (*UIST '20*) \\
   <img src="PolymorphicBlocks_IntelliJ.png" height=128>
   <img src="PolymorphicBlocks_GUI.png" height=128>
   <img src="PolymorphicBlocks_Boards.jpg" height=128>  \\
-  **[Source Code](https://github.com/BerkeleyHCI/PolymorphicBlocks)**  ||  Short Talk Video (coming soon)  || Demo Video (coming soon)
+  **[Source Code](https://github.com/BerkeleyHCI/PolymorphicBlocks)**  ||  **[Short Talk and Demo Video (on ACM DL)](https://doi.org/10.1145/3379337.3415860)**
 - **[Beyond Schematic Capture: Meaningful Abstractions for Better Electronics Design Tools](https://doi.org/10.1145/3290605.3300513)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Antonio Iannopollo, Alberto Sangiovanni Vincentelli, Prabal Dutta, Elad Alon, and Björn Hartmann \\
   *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems* (*CHI '19*) \\
