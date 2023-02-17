@@ -22,7 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   My primary research focuses on board-level design, emphasizing design re-use and abstraction, and blending techniques from the human-computer interaction (HCI), programming languages (PL), and electrical engineering (EE) domains.
   I also continue to work on chip- and FPGA-level digital logic design languages, similarly applying a blend of HCI and PL techniques to produce usable tools. <br/><br/>
   
-  I am a PhD student at UC Berkeley, co-advised by by Björn Hartmann and Elad Alon.
+  I am a postdoc at UCLA, as part of Ankur Mehta's LEMUR lab.
+  Previously, I completed my PhD at UC Berkeley, co-advised by by Björn Hartmann and Elad Alon.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ducky64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
