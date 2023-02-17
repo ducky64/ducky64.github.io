@@ -7,7 +7,7 @@ layout: default
 ### Board-level Electronics Design
 My main work is on bringing the large-scale, community-driven, library-based design processes seen in software development to circuit board (PCB) design to make electronics design easier, faster, and much more fun for everyone.
 The central part of this system is a hardware description language (HDL) and compiler for circuit design that adapts great ideas from software engineering to hardware design, for example using code to generate and specialize circuits to different applications, and using type systems to describe generic parts and subcircuits.
-These publications describe some of the individual research ideas that have become part of this system.
+These publications describe some of the individual research ideas that are part of this system.
 
 This project is fully open-source and actively developed! **[Project repository and source code are here](https://github.com/BerkeleyHCI/PolymorphicBlocks)**, including a **[getting started tutorial](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/getting-started.md)**.
 Give it a try and let me know what you think!
