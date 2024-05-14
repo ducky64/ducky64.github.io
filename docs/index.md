@@ -59,7 +59,11 @@ Research Papers
 
 Short papers
 
-- **Greyboxing: towards domain-specific representations for domain-specific languages in electronics design** (coming soon) \\
+- **[Insertion Live Templates: Better Bridging of Code and Block Diagram Representations in an Electronics HDL](https://kilthub.cmu.edu/articles/conference_contribution/Insertion_Live_Templates_Better_Bridging_of_Code_and_Block_Diagram_Representations_in_an_Electronics_HDL/25587687)** \\
+  **Richard Lin** and Ankur Mehta \\
+  *[PLATEAU '24 Workshop](https://2024.plateau-workshop.org/)*
+
+- **[Greyboxing: towards domain-specific representations for domain-specific languages in electronics design](https://kilthub.cmu.edu/articles/conference_contribution/Greyboxing_towards_domain-specific_representations_for_domain-specific_languages_in_electronics_design/22277344)** \\
   **Richard Lin**, Rohit Ramesh, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
   *[PLATEAU '23 Workshop](https://2023.plateau-workshop.org/)*
 
