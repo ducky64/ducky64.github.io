@@ -17,6 +17,12 @@ Once in a while, updates are posted to the [LEMUR lab's blog](https://uclalemur.
 
 Research Papers
 
+- **[Design Space Exploration for Board-level Circuits: Exploring Alternatives in Component-based Design](https://doi.org/10.1145/3613904.3642009)** (open-access) \\
+  **Richard Lin**, Rohit Ramesh, Parth Pandhare, Kai Jun Tay, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
+  *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems* (*CHI '24*) \\
+  <img src="DseOverview.png" height=128>  \\
+  - Source code is part of the IDE repository below
+
 - **[Computational Support for Multiplicity in Hierarchical Electronics Design](https://doi.org/10.1145/3559400.3561997)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
   *The 7th Annual ACM Symposium on Computational Fabrication* (*SCF '22*) \\
