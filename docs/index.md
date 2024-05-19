@@ -17,6 +17,12 @@ Once in a while, updates are posted to the [LEMUR lab's blog](https://uclalemur.
 
 Research Papers
 
+- **[Design Space Exploration for Board-level Circuits: Exploring Alternatives in Component-based Design](https://doi.org/10.1145/3613904.3642009)** (open-access) \\
+  **Richard Lin**, Rohit Ramesh, Parth Pandhare, Kai Jun Tay, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
+  *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems* (*CHI '24*) \\
+  <img src="DseOverview.png" height=128>  \\
+  - Source code is part of the IDE repository below
+
 - **[Computational Support for Multiplicity in Hierarchical Electronics Design](https://doi.org/10.1145/3559400.3561997)** (open-access) \\
   **Richard Lin**, Rohit Ramesh, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
   *The 7th Annual ACM Symposium on Computational Fabrication* (*SCF '22*) \\
@@ -53,7 +59,11 @@ Research Papers
 
 Short papers
 
-- **Greyboxing: towards domain-specific representations for domain-specific languages in electronics design** (coming soon) \\
+- **[Insertion Live Templates: Better Bridging of Code and Block Diagram Representations in an Electronics HDL](https://kilthub.cmu.edu/articles/conference_contribution/Insertion_Live_Templates_Better_Bridging_of_Code_and_Block_Diagram_Representations_in_an_Electronics_HDL/25587687)** \\
+  **Richard Lin** and Ankur Mehta \\
+  *[PLATEAU '24 Workshop](https://2024.plateau-workshop.org/)*
+
+- **[Greyboxing: towards domain-specific representations for domain-specific languages in electronics design](https://kilthub.cmu.edu/articles/conference_contribution/Greyboxing_towards_domain-specific_representations_for_domain-specific_languages_in_electronics_design/22277344)** \\
   **Richard Lin**, Rohit Ramesh, Prabal Dutta, Björn Hartmann, and Ankur Mehta \\
   *[PLATEAU '23 Workshop](https://2023.plateau-workshop.org/)*
 
