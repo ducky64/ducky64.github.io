@@ -9,4 +9,4 @@ My primary research focuses on board-level design, emphasizing design re-use and
 
 Previously, I was a postdoc at UCLA, as part of Ankur Mehta's LEMUR lab, and before that I completed my PhD at UC Berkeley, co-advised by Björn Hartmann and Elad Alon.
 
-Check out my [research work](research.md) and the [circuit boards](boards.md) I've designed as part of the research project into a hardware description language for boards!
+Check out my [research work](research.md), including an open-source [board-level hardware description language](https://github.com/BerkeleyHCI/PolymorphicBlocks) and the [circuit boards](boards.md) I've designed demonstrations of the board compiler!
