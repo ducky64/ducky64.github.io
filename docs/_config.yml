@@ -40,6 +40,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ducky64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: ducky64
+google_analytics: G-3KXSCB5RVB
 
 logo: DucklingCircleGeneric.png
 show_downloads: false
