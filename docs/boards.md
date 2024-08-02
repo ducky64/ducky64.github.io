@@ -13,7 +13,7 @@ All these are fully open-source.
 <img src="boards/usbsmu3.webp" width=384>
 <img src="boards/usbsmu3_case.webp" width=384>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_usb_source_measure.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_usb_source_measure.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/UsbSourceMeasure),
   [Firmware](https://github.com/ducky64/edg-pcbs/blob/main/IoTDevices/iotusbsourcemeasure.yml),
   [PC Interface](https://github.com/ducky64/edg-pcbs/tree/main/IoTDevices/SmuRemoteControl),
@@ -43,7 +43,7 @@ This is a collaborative project with [Prof. Yang Zhang's HiLab](https://hilab.de
 ## Stick BLE Multimeter
 <img src="boards/multimeter.webp" width=512>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_multimeter.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_multimeter.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/Multimeter),
   [Firmware](https://github.com/CalSol/Devops-BLE-FW/tree/main/Multimeter),
   [Android app](https://github.com/ducky64/BleMultimeterApp),
@@ -69,7 +69,7 @@ Inspired by the [TI BLE multimeter reference design](https://www.ti.com/tool/TID
 ## E-ink Calendar
 <img src="boards/eink_assembly.webp" height=256>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_display.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_display.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/IotDisplay),
   [Firmware](https://github.com/ducky64/edg-pcbs/tree/main/IoTDisplay),
   [Image server](https://github.com/ducky64/eink-svg-server)
@@ -89,7 +89,7 @@ If you're ever around UCLA Engineering IV 5th floor, look for these!
 ## IoT Fan Driver
 <img src="boards/iotfandriver2.webp" width=384>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_fan.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_fan.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/IotFan),
   [Firmware](https://github.com/ducky64/edg-pcbs/blob/main/IoTDevices/iotfandriver_r2.yml)
     - Note: broken ground plane significantly reduces RF performance, can be fixed with copper tape and a solder blob
@@ -104,7 +104,7 @@ On the technical side, this has a discrete ESP32-C3 layout with (including discr
 ## Multilevel Converter Prototype
 <img src="boards/fcml.webp" width=256>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_fcml.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_fcml.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/Fcml),
   [RTL](https://github.com/calisco/fcml-rtl)
 - **FPGA**: iCE40UP5k
@@ -118,7 +118,7 @@ A few basic tests have been run with this device, and it does process power effi
 ## Soldering Iron Controller
 <img src="boards/iotsoldering.webp" width=384>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_iron.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_iot_iron.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/IotIron),
   [Firmware](https://github.com/ducky64/edg-pcbs/blob/main/IoTDevices/iotiron.yml)
 - **Microcontroller**: ESP32-S3, **Power**: USB-C PD (FUSB302)
@@ -133,7 +133,7 @@ This was one of the first devices in the HDL compiler to have a discrete power c
 ## "Owlbot"
 <img src="boards/owlbot_oled.webp" width=256>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_robotowl.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_robotowl.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/RobotOwl)
 - **Microcontroller**: ESP32-S3 socketed dev board
 - **Firmware**: Arduino IDE / ESPHome
@@ -147,11 +147,11 @@ This had a 30 unit production run.
 ## CANdapter
 <img src="boards/candapter.webp" width=256>
 
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_can_adapter.py),
+- **Sources**: [Circuit HDL](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_can_adapter.py),
   [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/CanAdapter),
   [Firmware](https://github.com/CalSol/Devops-FW/tree/main/Candapter)
 - **Microcontroller**: LPC1549
 - **Firmware**: mbed + PlatformIO
 
 A CANbus-USB adapter speaking the SLCAN protocol, used for solar car debugging - because debugging with data is always better than debugging-by-guess-and-check.
-An onboard LCD display shows summary statistics like packet rate and error rate. 
+An onboard LCD shows summary statistics like packet rate and error rate. 
