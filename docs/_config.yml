@@ -16,14 +16,26 @@
 title: Richard Lin
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
+  
+  <p style="text-align: center;">
+  <link rel="stylesheet" href="assets/fonts/font-awesome/css/fontawesome.min.css">
+  <link rel="stylesheet" href="assets/fonts/font-awesome/css/brands.min.css">
+  
   richard.lin at berkeley.edu <br/><br/>
 
-  I'm interested in improving electronics design, by making it more accessible and usable for novices, and more efficient for experts.
-  My primary research focuses on board-level design, emphasizing design re-use and abstraction, and blending techniques from the human-computer interaction (HCI), programming languages (PL), and electrical engineering (EE) domains.
-  I also continue to work on chip- and FPGA-level digital logic design languages, similarly applying a blend of HCI and PL techniques to produce usable tools. <br/><br/>
+  <a href="https://in.linkedin.com/in/ducky-lin"><i class="fa-brands fa-linkedin-in"></i></a>
+  &nbsp;
+  <a href="https://github.com/ducky64"><i class="fa-brands fa-github"></i></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=9MTEH-4AAAAJ"><i class="fa-brands fa-google-scholar"></i></a>
   
-  I am a postdoc at UCLA, as part of Ankur Mehta's LEMUR lab.
-  Previously, I completed my PhD at UC Berkeley, co-advised by by Björn Hartmann and Elad Alon.
+  <br/>
+  <br/>
+  
+  <a href="index.html">About</a><br/>
+  <a href="research.html">Research & Teaching</a><br/>
+  <a href="boards.html">Boards</a><br/>
+  </p>
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ducky64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
