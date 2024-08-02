@@ -9,8 +9,8 @@ Under construction!
 ## USB Source-Measure
 - **Microcontroller**: ESP32-S3, **Power**: USB-C PD (FUSB302)
 - **Firmware**: ESPHome with custom drivers
-- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_usb_source_measure.py)
-  [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/UsbSourceMeasure)
+- **Links**: [HDL Source](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/examples/test_usb_source_measure.py),
+  [Layout](https://github.com/BerkeleyHCI/PolymorphicBlocks/tree/master/examples/UsbSourceMeasure),
   [Firmware](https://github.com/ducky64/edg-pcbs/blob/main/IoTDevices/iotusbsourcemeasure.yml),
   [PC Interface](https://github.com/ducky64/edg-pcbs/tree/main/IoTDevices/SmuRemoteControl),
   [Case (OpenSCAD)](https://github.com/ducky64/edg-pcbs/tree/main/UsbSmu/mechanical)
