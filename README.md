@@ -9,3 +9,10 @@ bundle exec jekyll serve
 ```
 
 Go to `http://localhost:4000`
+
+
+## License
+
+All rights reserved.
+
+Some of the content here may be also available under a different license elsewhere, for instance, many of the papers are open-access and under a Creative Commons license.
